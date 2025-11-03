@@ -1,1 +1,20 @@
-banana|noun|chuoi|i eat banana|0
+apple|N|tao|i like apple|0|0
+banana|N|chuoi|I eat banana every morning.|0|0
+big|Adj|to|That house is big.|0|0
+book|N|sach|This book is new.|0|0
+car|N|xe hoi|My father drives a car.|1|0
+cat|N|meo|My cat is sleeping.|0|0
+dog|N|cho|The dog is barking.|0|0
+drink|V|uong|I drink water.|0|0
+eat|V|an|We eat lunch at noon.|0|0
+happy|Adj|vui ve|She is very happy.|0|0
+quickly|Adv|nhanh chong|He runs quickly.|0|0
+run|V|chay|He runs every day.|0|0
+sad|Adj|buon|He feels sad today.|0|0
+slowly|Adv|cham rai|Please walk slowly.|0|0
+small|Adj|nho|This box is small.|0|0
+strong|Adj|manh me|You are very strong.|0|0
+student|N|hoc sinh|The student is reading.|0|1
+study|V|hoc|They study English every day.|0|0
+swim|V|boi|They swim in the pool.|0|0
+teacher|N|giao vien|My teacher is kind.|0|0
